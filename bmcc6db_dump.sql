@@ -18,7 +18,7 @@
 --
 -- Table structure for table `activity`
 --
-DROP DATABASE [IF EXISTS] bmcc6db;
+DROP DATABASE IF EXISTS bmcc6db;
 CREATE Database bmcc6db;
 use bmcc6db;
 
