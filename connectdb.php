@@ -3,6 +3,6 @@
 // kbyron@bmcc.cuny.edu
 // 5-28-2020
 // connect to db
-$dbc = mysqli_connect("localhost", "root", "", "bmcc6db");
+$dbc = mysqli_connect("localhost", "root", "admin", "bmcc6db");
 ?>
 
